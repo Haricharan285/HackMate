@@ -1,15 +1,3 @@
-// src/firebase/config.js
-// ============================================================
-// 🔧 SETUP INSTRUCTIONS
-// ============================================================
-// 1. Go to https://console.firebase.google.com
-// 2. Create a new project (e.g. "hackmate")
-// 3. Enable Authentication → Email/Password
-// 4. Create a Firestore Database (start in test mode)
-// 5. Go to Project Settings → Your apps → Add Web App
-// 6. Copy the firebaseConfig values below
-// 7. Replace the placeholder values with your real config
-// ============================================================
 
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
